@@ -6,14 +6,9 @@
 [bristle.io][bristleurl]
 ======
 
-The [bristle.io][bristleurl] team has created a fork of [LinuxServer.io][lsiorepo]'s container release of [Plexpy][appurl] and updated it to atomweb
-
 bristleio/atomweb
 ======
 [![Version](https://img.shields.io/github/tag/bristleio/atomweb.svg)][githuburl][![Docker Pulls](https://img.shields.io/docker/pulls/bristleio/atomweb.svg)][hub][![Docker Stars](https://img.shields.io/docker/stars/bristleio/atomweb.svg)][hub][![Build Automated](https://img.shields.io/docker/automated/bristleio/atomweb.svg)][hub][![Build Status](https://img.shields.io/docker/build/bristleio/atomweb.svg)][hub]
-
-[atomweb][appurl] Is a Python-based Plex Usage tracker, that is currently in active development.
-
 
 Usage
 ------
@@ -67,7 +62,6 @@ In this instance `USER_ID=99` and `GROUP_ID=100` are it's default values. To fin
 
 Setting up the application
 ------
-`IMPORTANT... THIS IS THE ARMHF VERSION`
 
 Access the webui at `<your-ip>:8080`, for more information check out [atomweb][appurl].
 
